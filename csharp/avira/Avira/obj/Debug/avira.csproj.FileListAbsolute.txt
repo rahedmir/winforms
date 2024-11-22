@@ -1,0 +1,15 @@
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\bin\Debug\Avira.exe.config
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\bin\Debug\Avira.exe
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\bin\Debug\Avira.pdb
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\avira.csproj.AssemblyReference.cache
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.frm_main.resources
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.frm_performance.resources
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.frm_privacy.resources
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.frm_security.resources
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.Properties.Resources.resources
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.frm_status.resources
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\avira.csproj.GenerateResource.cache
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\avira.csproj.CoreCompileInputs.cache
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\avira.csproj.Up2Date
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.exe
+D:\Bootcamp\C# Dev Bootcamp 2023\App Replication\avira\Avira\obj\Debug\Avira.pdb
