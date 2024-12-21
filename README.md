@@ -1,2 +1,2 @@
 # winforms
-Collection of modern C# / .NET winform applications.
+Collection of modern C# / .NET winform UI.
