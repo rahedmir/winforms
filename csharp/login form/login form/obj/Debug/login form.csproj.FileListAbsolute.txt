@@ -1,0 +1,36 @@
+C:\Users\MIR\source\repos\login form\login form\bin\Debug\login form.exe.config
+C:\Users\MIR\source\repos\login form\login form\bin\Debug\login form.exe
+C:\Users\MIR\source\repos\login form\login form\bin\Debug\login form.pdb
+C:\Users\MIR\source\repos\login form\login form\bin\Debug\Guna.UI.dll
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login_form.frmlogin.resources
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login form.csproj.Up2Date
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login form.exe
+C:\Users\MIR\source\repos\login form\login form\obj\Debug\login form.pdb
+C:\Users\MIR\Desktop\login\login form\login form\bin\Debug\login form.exe.config
+C:\Users\MIR\Desktop\login\login form\login form\bin\Debug\login form.exe
+C:\Users\MIR\Desktop\login\login form\login form\bin\Debug\login form.pdb
+C:\Users\MIR\Desktop\login\login form\login form\bin\Debug\Guna.UI.dll
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login_form.frmlogin.resources
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login form.csproj.Up2Date
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login form.exe
+C:\Users\MIR\Desktop\login\login form\login form\obj\Debug\login form.pdb
+C:\Users\MIR\Desktop\login form\login form\bin\Debug\login form.exe.config
+C:\Users\MIR\Desktop\login form\login form\bin\Debug\login form.exe
+C:\Users\MIR\Desktop\login form\login form\bin\Debug\login form.pdb
+C:\Users\MIR\Desktop\login form\login form\bin\Debug\Guna.UI.dll
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login_form.frmlogin.resources
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login form.csproj.Up2Date
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login form.exe
+C:\Users\MIR\Desktop\login form\login form\obj\Debug\login form.pdb
