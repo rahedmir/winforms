@@ -1,0 +1,12 @@
+C:\Users\MIR\source\repos\anydesk\anydesk\bin\Debug\anydesk.exe.config
+C:\Users\MIR\source\repos\anydesk\anydesk\bin\Debug\anydesk.exe
+C:\Users\MIR\source\repos\anydesk\anydesk\bin\Debug\anydesk.pdb
+C:\Users\MIR\source\repos\anydesk\anydesk\bin\Debug\Guna.UI.dll
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.csproj.AssemblyReference.cache
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.anydesk.resources
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.Properties.Resources.resources
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.csproj.GenerateResource.cache
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.csproj.CoreCompileInputs.cache
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.csproj.Up2Date
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.exe
+C:\Users\MIR\source\repos\anydesk\anydesk\obj\Debug\anydesk.pdb
