@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zscaler", "zscaler\zscaler.csproj", "{7001B389-52DB-49CE-8F31-A7FFFED71342}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7001B389-52DB-49CE-8F31-A7FFFED71342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7001B389-52DB-49CE-8F31-A7FFFED71342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7001B389-52DB-49CE-8F31-A7FFFED71342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7001B389-52DB-49CE-8F31-A7FFFED71342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BC57E23-0DA7-47EF-85B4-01F7E7D98F61}
+	EndGlobalSection
+EndGlobal
